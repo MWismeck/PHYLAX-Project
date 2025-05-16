@@ -1,0 +1,3 @@
+module PHYLAX-PROJECT
+
+go 1.24
